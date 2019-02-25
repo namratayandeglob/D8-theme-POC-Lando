@@ -1,0 +1,9 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+ .header {
+  height:150px;
+  background: url("../images/hero.jpeg") no-repeat center center !important;
+ }
